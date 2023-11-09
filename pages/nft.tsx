@@ -81,7 +81,7 @@ export default function NFT() {
       <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
         <Image
           className="h-48 w-full object-cover object-center"
-          src="/nft.jpg"
+          src="/eth.png"
           width={100}
           height={48}
           alt="blog"
